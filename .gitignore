@@ -1,0 +1,4 @@
+.idea
+flyte-shell
+/vendor
+*.iml
