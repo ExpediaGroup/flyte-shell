@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.org/HotelsDotCom/flyte-shell.svg?branch=master)
+
 ## Overview
 The Shell pack can run an arbitrary bash script. If you can run it in a bash terminal then it'll run on this pack.
 The pack has bash, curl, jq and openssh installed on its container. If you need something more, feel free
