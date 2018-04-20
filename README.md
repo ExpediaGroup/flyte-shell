@@ -1,4 +1,8 @@
+# flyte-shell
+
 ![Build Status](https://travis-ci.org/HotelsDotCom/flyte-shell.svg?branch=master)
+[![Docker Stars](https://img.shields.io/docker/stars/hotelsdotcom/flyte-shell.svg)](https://hub.docker.com/r/hotelsdotcom/flyte-shell)
+[![Docker Pulls](https://img.shields.io/docker/pulls/hotelsdotcom/flyte-shell.svg)](https://hub.docker.com/r/hotelsdotcom/flyte-shell)
 
 ## Overview
 The Shell pack can run an arbitrary bash script. If you can run it in a bash terminal then it'll run on this pack.
