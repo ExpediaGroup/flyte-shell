@@ -19,12 +19,12 @@ package main
 import (
 	"errors"
 	"fmt"
+	"github.com/ExpediaGroup/flyte-shell/command"
+	"github.com/HotelsDotCom/flyte-client/client"
+	"github.com/HotelsDotCom/flyte-client/flyte"
 	"log"
 	"net/url"
 	"os"
-	"github.com/HotelsDotCom/flyte-client/client"
-	"github.com/HotelsDotCom/flyte-client/flyte"
-	"github.com/HotelsDotCom/flyte-shell/command"
 	"strings"
 	"time"
 )
@@ -41,7 +41,7 @@ func main() {
 		log.Fatal(err)
 	}
 
-	helpUrl, err := url.Parse("https://github.com/HotelsDotCom/flyte-shell/blob/master/README.md")
+	helpUrl, err := url.Parse("https://github.com/ExpediaGroup/flyte-shell/blob/master/README.md")
 	if err != nil {
 		log.Fatal(err)
 	}
