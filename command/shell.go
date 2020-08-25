@@ -21,9 +21,9 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/HotelsDotCom/flyte-client/flyte"
 	"log"
 	"os/exec"
-	"github.com/HotelsDotCom/flyte-client/flyte"
 	"syscall"
 )
 

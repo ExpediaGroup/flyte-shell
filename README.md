@@ -1,6 +1,6 @@
 # flyte-shell
 
-![Build Status](https://travis-ci.org/HotelsDotCom/flyte-shell.svg?branch=master)
+![Build Status](https://travis-ci.org/ExpediaGroup/flyte-shell.svg?branch=master)
 [![Docker Stars](https://img.shields.io/docker/stars/hotelsdotcom/flyte-shell.svg)](https://hub.docker.com/r/hotelsdotcom/flyte-shell)
 [![Docker Pulls](https://img.shields.io/docker/pulls/hotelsdotcom/flyte-shell.svg)](https://hub.docker.com/r/hotelsdotcom/flyte-shell)
 
